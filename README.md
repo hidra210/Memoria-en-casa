@@ -9,7 +9,7 @@
 # Memoria en Casa
 
 <div align="center">
-  <img src="./prototipo.png" alt="Prototipo de Memoria en Casa" width="600">
+  <img src="./Prototipo Alta Fidelidad - Figma.png" alt="Prototipo de Memoria en Casa" width="600">
 </div>
 
 **Memoria en Casa** es el diseño de una aplicación de apoyo a la autonomía de las personas mayores. Dado que mantener una rutina organizada es sinónimo de autonomía para muchas personas mayores, buscamos que el uso de la tecnología no se convierta en una fuente de frustración.
