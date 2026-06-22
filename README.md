@@ -74,7 +74,7 @@ Aunque puedes usar Figma en tu navegador, descargar el programa ofrece una exper
 # Memoria en Casa
 
 <div align="center">
-  <img src="./prototipo.png" alt="Memoria en Casa Prototype" width="600">
+  <img src="./Prototipo Alta Fidelidad - Figma.png" alt="Memoria en Casa Prototype" width="600">
 </div>
 
 **Memoria en Casa** is a mobile application design tailored to support the independence and autonomy of elderly people. Recognizing that maintaining an organized daily routine is key to autonomy for many seniors, this project focuses on ensuring that technology serves as a helpful tool rather than a source of frustration.
